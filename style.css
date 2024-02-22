@@ -34,11 +34,11 @@
 
 .col-sm-4{
     background-color: rgba(230,218,206,1);
-    height: 100px;
+    height: 370px;
 }
 
 .col-sm-4{
-    height: 100px;
+    height: 300px;
 }
 
 h1 {
@@ -76,4 +76,64 @@ h1 {
 h4{
     font-family: h4;
     font-size: 20px;
+}
+
+hr{
+    opacity: 1;
+}
+
+.ash{
+    background-image: url("images/uxd\ background.png");
+    height: 360px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.ashh{
+    background-image: url("https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-12/Statistical%20Analysis.png");
+    height: 360px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.ashhh{
+    background-image: url("images/vap_background.png");
+    height: 768px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+
+.txt{
+    position: absolute;
+    background-color: white;
+    bottom: 8px;
+    text-align: white;
+    left: 8px;
+    right:8px;
+}
+
+h3{
+    font-family: h3;
+}
+
+.button{
+    margin:5px 10px;
+    width: 200px;
+}
+
+.buttons{
+    width:100%;
+}
+
+i{
+    font-size: 30px;
+}
+
+.connect{
+    background-color: black;
+    color: white;
 }
