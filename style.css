@@ -20,7 +20,7 @@
 
 @font-face {
     font-family: h4;
-    src: url(Poppins-2/Poppins-Regular.ttf);
+    src: url(Poppins-2/Poppins-Medium.ttf);
 }
 
 *{
@@ -46,8 +46,8 @@ h1 {
     text-align: center;
 }
 
-.container{
-    background-color: aliceblue;
+h4{
+    font-family: h4;
 }
 
 
@@ -136,4 +136,32 @@ i{
 .connect{
     background-color: black;
     color: white;
+}
+
+p{
+    text-align: justify;
+}
+
+.type p{
+    margin-bottom: 8px;
+}
+
+.profile{
+    margin-bottom: 10px; 
+}
+
+.connect{
+    margin-top: 10px; 
+}
+
+.divide{
+    display: flex;
+}
+
+.skills p{
+    margin-bottom: 4px;
+}
+
+.skills{
+    padding: 10px; 
 }
